@@ -15,9 +15,9 @@ const data = [
   {
     id: 2,
     image: Image2,
-    title: "Web Development",
+    title: "Blender",
     description:
-      "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
+      "Poseo basto conocimiento realizando obras 3D en Blender, incluyendo simulaciones y renders comerciales.",
   },
 ];
 
