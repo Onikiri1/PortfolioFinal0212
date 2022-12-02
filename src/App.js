@@ -6,7 +6,7 @@ import Services from './components/services/Services';
 import Portfolio from './components/portfolio/Portfolio';
 import About from './components/about/About';
 import Contact from './components/contact/Contact';
-import Testimonials from './components/testimonials/Testimonials';
+
 
 
 import './App.css';
