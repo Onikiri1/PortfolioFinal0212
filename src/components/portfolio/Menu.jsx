@@ -4,6 +4,8 @@ import Work3 from '../../assets/3d2.png';
 import Work4 from '../../assets/m1.png';
 import Work5 from '../../assets/wrk3.png';
 import Work6 from '../../assets/3d1.png';
+import Work7 from '../../assets/aracne1.png';
+import Work8 from '../../assets/twitch1.png';
 
 
 const Menu = [
@@ -47,6 +49,27 @@ const Menu = [
     ,
     {
       id: 6,
+      image: Work6,
+      title: "Abandoned",
+      category: "3D Work",
+      link: "https://www.instagram.com/p/ClcVYZ7MlvA/",
+    },
+    {
+      id: 7,
+      image: Work7,
+      title: "Aracne Esports Stream Designs",
+      category: "Motion Graphics",
+      link: "https://www.behance.net/gallery/119745169/Aracne-Stream-Package",
+    },
+    {
+      id: 8,
+      image: Work8,
+      title: "Twitch 2021",
+      category: "Diseño",
+      link: "https://www.behance.net/gallery/158405909/TWITCH-2021",
+    },
+    {
+      id: 9,
       image: Work6,
       title: "Abandoned",
       category: "3D Work",
