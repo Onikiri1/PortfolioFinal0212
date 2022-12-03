@@ -6,15 +6,16 @@ import Work5 from '../../assets/wrk3.png';
 import Work6 from '../../assets/3d1.png';
 import Work7 from '../../assets/aracne1.png';
 import Work8 from '../../assets/twitch1.png';
-
+import Work9 from '../../assets/motion.png';
 
 const Menu = [
+    
     {
       id: 1,
-      image: Work1,
-      title: "Ultimo Video",
-      category: "Video",
-      link:"https://youtu.be/QORpcURHIlQ",
+      image: Work6,
+      title: "Abandoned",
+      category: "3D Work",
+      link: "https://www.instagram.com/p/ClcVYZ7MlvA/",
     },
     {
       id: 2,
@@ -49,10 +50,10 @@ const Menu = [
     ,
     {
       id: 6,
-      image: Work6,
-      title: "Abandoned",
-      category: "3D Work",
-      link: "https://www.instagram.com/p/ClcVYZ7MlvA/",
+      image: Work1,
+      title: "Ultimo Video",
+      category: "Video",
+      link:"https://youtu.be/QORpcURHIlQ",
     },
     {
       id: 7,
@@ -70,10 +71,10 @@ const Menu = [
     },
     {
       id: 9,
-      image: Work6,
-      title: "Abandoned",
-      category: "3D Work",
-      link: "https://www.instagram.com/p/ClcVYZ7MlvA/",
+      image: Work9,
+      title: "Motion Graphics",
+      category: "Motion Graphics",
+      link: "https://www.behance.net/gallery/107841731/Motion-Graphics",
     },
   ];
 
